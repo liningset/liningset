@@ -9,6 +9,7 @@
 │                                                              │
 │  Sajed Yuzbashi                                              │
 │  ─────────────────────────────────────────────────────────   │
+│  User      liningset                                         │
 │  OS        Arch Linux                                        │
 │  shell     bash                                              │
 │  editor    Vim/VSCode                                        │
@@ -41,6 +42,28 @@ systems   :: Linux · Arch
 learning  :: Python · Linux internals
 ```
 
+## ~/projects
+
+Some of the things I've built, broken, fixed, and occasionally finished.
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [dondar]                                                    │
+│  └─ a web app to chain-encode text with varying algorithms   │
+│     └─ [https://github.com/liningset/dondar]                 │
+│                                                              │
+│  [matrix-screensaver-js]                                     │
+│  └─ the cool effect of infamous matrix movie on browser      │
+│     with more control                                        │
+│     └─ [https://github.com/liningset/matrix-screensaver-js]  │
+│                                                              │
+│  [waves-music-app]                                           │
+│  └─ a small and cozy react/ts app for playing music          │
+│     └─ [https://github.com/liningset/waves-music-app]        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ## ~/sidequests
 
@@ -59,5 +82,5 @@ learning  :: Python · Linux internals
 ```
 $ exit 0
 
-have a nice day and thanks for reading this file.
+have a nice day and thanks for checking out this file.
 ```
