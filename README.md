@@ -9,12 +9,10 @@
 │                                                              │
 │  Sajed Yuzbashi                                              │
 │  ─────────────────────────────────────────────────────────   │
-│  User      liningset                                         │
-│  OS        Arch Linux                                        │
-│  shell     bash                                              │
-│  editor    Vim/VSCode                                        │
-│  focus     web development                                   │
-│  currently TypeScript / React                                │
+│  user        liningset                                       │
+│  passion     building                                        │
+│  focus       web development                                 │
+│  currently   React & Typescript                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -27,7 +25,7 @@ Most of my work lives around JavaScript, TypeScript, React, CSS,
 and the rest of the frontend ecosystem.
 
 When I'm not building for the browser, I'm usually somewhere between
-Linux configuration, Arch ricing, regexes, and occasionally exploring
+Linux configuration, Arch ricing, and occasionally exploring
 AI or cybersecurity.
 
 
@@ -37,41 +35,18 @@ AI or cybersecurity.
 
 ```text
 web       :: HTML · CSS · JS · TS · React · Sass · Tailwind
-tools     :: Git · Bash · Regex
+tools     :: Git · Bash · Grep
 systems   :: Linux · Arch
-learning  :: Python · Linux internals
+learning  :: Python · Linux internals · Shell scripting
 ```
 
-## ~/projects
-
-Some of the things I've built, broken, fixed, and occasionally finished.
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [dondar]                                                    │
-│  └─ a web app to chain-encode text with varying algorithms   │
-│     └─ [https://github.com/liningset/dondar]                 │
-│                                                              │
-│  [matrix-screensaver-js]                                     │
-│  └─ the cool effect of infamous matrix movie on browser      │
-│     with more control                                        │
-│     └─ [https://github.com/liningset/matrix-screensaver-js]  │
-│                                                              │
-│  [waves-music-app]                                           │
-│  └─ a small and cozy react/ts app for playing music          │
-│     └─ [https://github.com/liningset/waves-music-app]        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ## ~/sidequests
 
 ```text
-[01] ricing        :: pretty pixels, questionable time investment
-[02] regex         :: because `.*` is rarely enough
-[03] linux         :: break → investigate → fix → repeat
-[04] AI / security :: poking around without pretending to be an expert
+[00] ricing        :: pretty pixels, questionable time investment
+[01] linux         :: break → investigate → fix → repeat
+[02] AI / security :: poking around without pretending to be an expert
 ```
 
 ## ~/links
@@ -82,5 +57,5 @@ Some of the things I've built, broken, fixed, and occasionally finished.
 ```
 $ exit 0
 
-have a nice day and thanks for checking out this file.
+have a nice day 😀
 ```
