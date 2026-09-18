@@ -35,7 +35,7 @@ AI or cybersecurity.
 
 ```text
 web       :: HTML · CSS · JS · TS · React · Sass · Tailwind
-tools     :: Git · Bash · Grep
+tools     :: Git · Bash · Regex
 systems   :: Linux · Arch
 learning  :: Python · Linux internals · Shell scripting
 ```
@@ -52,7 +52,12 @@ learning  :: Python · Linux internals · Shell scripting
 ## ~/links
 
 
-<p align="center"><a href="https://github.com/liningset"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a><a href="https://x.com/LiningSet"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a><a href="https://t.me/liningset"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a></p>
+<p align="center">
+<a href="https://github.com/liningset"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+<a href="https://x.com/liningset"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
+<a href="https://t.me/liningset"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+<a href="https://linkedin.com/in/sajed-yuzbashi-126937437"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=26A5E4" /></a>
+</p>
 
 ```
 $ exit 0
