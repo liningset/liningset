@@ -53,10 +53,10 @@ learning  :: Python · Linux internals · Shell scripting
 
 
 <p align="center">
-<a href="https://github.com/liningset"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-<a href="https://x.com/liningset"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
-<a href="https://t.me/liningset"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
-<a href="https://linkedin.com/in/sajed-yuzbashi-126937437"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=26A5E4" /></a>
+<a href="https://github.com/liningset"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+<a href="https://x.com/liningset"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" /></a>
+<a href="https://t.me/liningset"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sajed-yuzbashi-126937437"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 </p>
 
 ```
